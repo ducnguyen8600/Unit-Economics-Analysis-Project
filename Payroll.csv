@@ -1,0 +1,52 @@
+month,department,employee_name,position,paid
+2023-01,Sales,John Doe,Sales Manager,1500
+2023-01,Sales,Jane Smith,Sales Associate,600
+2023-01,Sales,Jim Brown,Sales Associate,700
+2023-01,Sales,Laura Miller,Sales Associate,800
+2023-01,Marketing,Alice Johnson,Marketing Manager,1650
+2023-01,Marketing,Bob Davis,Content Specialist,700
+2023-01,Engineering,Charlie Wilson,Senior Developer,2500
+2023-01,Engineering,Diana Lee,Developer,1700
+2023-01,Engineering,Eva White,Junior Developer,1000
+2023-01,HR,Frank Green,HR Manager,1300
+2023-01,HR,Gary Black,HR Specialist,700
+2023-01,Support,Hannah Scott,Support Lead,600
+2023-01,Support,Ian Harris,Support Specialist,500
+2023-01,Support,Emily Clark,Support Specialist,450
+2023-01,Analytics,Michael Brown,Analytics Manager,1700
+2023-01,Analytics,Sarah Wilson,Data Analyst,1200
+2023-01,Analytics,David Lee,Data Analyst,1300
+2023-02,Sales,John Doe,Sales Manager,1500
+2023-02,Sales,Jane Smith,Sales Associate,600
+2023-02,Sales,Jim Brown,Sales Associate,700
+2023-02,Sales,Laura Miller,Sales Associate,5100
+2023-02,Marketing,Alice Johnson,Marketing Manager,1650
+2023-02,Marketing,Bob Davis,Content Specialist,700
+2023-02,Engineering,Charlie Wilson,Senior Developer,2500
+2023-02,Engineering,Diana Lee,Developer,1700
+2023-02,Engineering,Eva White,Junior Developer,1000
+2023-02,HR,Frank Green,HR Manager,1300
+2023-02,HR,Gary Black,HR Specialist,700
+2023-02,Support,Hannah Scott,Support Lead,600
+2023-02,Support,Ian Harris,Support Specialist,500
+2023-02,Support,Emily Clark,Support Specialist,450
+2023-02,Analytics,Michael Brown,Analytics Manager,1700
+2023-02,Analytics,Sarah Wilson,Data Analyst,1200
+2023-02,Analytics,David Lee,Data Analyst,1300
+2023-03,Sales,John Doe,Sales Manager,1500
+2023-03,Sales,Jane Smith,Sales Associate,600
+2023-03,Sales,Jim Brown,Sales Associate,700
+2023-03,Sales,Laura Miller,Sales Associate,800
+2023-03,Marketing,Alice Johnson,Marketing Manager,1650
+2023-03,Marketing,Bob Davis,Content Specialist,700
+2023-03,Engineering,Charlie Wilson,Senior Developer,2500
+2023-03,Engineering,Diana Lee,Developer,1700
+2023-03,Engineering,Eva White,Junior Developer,1000
+2023-03,HR,Frank Green,HR Manager,1300
+2023-03,HR,Gary Black,HR Specialist,700
+2023-03,Support,Hannah Scott,Support Lead,600
+2023-03,Support,Ian Harris,Support Specialist,500
+2023-03,Support,Emily Clark,Support Specialist,450
+2023-03,Analytics,Michael Brown,Analytics Manager,1700
+2023-03,Analytics,Sarah Wilson,Data Analyst,1200
+2023-03,Analytics,David Lee,Data Analyst,1300

@@ -1,0 +1,28 @@
+#,month,category,item,amount
+1,2023-01,Server Costs,AWS Hosting,8000
+2,2023-01,Server Costs,Google Cloud Storage,4000
+3,2023-01,Software Licenses,Atlassian Jira,1200
+4,2023-01,Software Licenses,Slack,800
+5,2023-01,Software Licenses,Salesforce,1500
+6,2023-01,Software Licenses,Zoom,500
+7,2023-01,Office Rental,Office Rent,10000
+8,2023-01,Other,Office Supplies,500
+9,2023-01,Other,Travel Expenses,3000
+10,2023-02,Server Costs,AWS Hosting,8200
+11,2023-02,Server Costs,Google Cloud Storage,4200
+12,2023-02,Software Licenses,Atlassian Jira,1300
+13,2023-02,Software Licenses,Slack,850
+14,2023-02,Software Licenses,Salesforce,1600
+15,2023-02,Software Licenses,Zoom,520
+16,2023-02,Office Rental,Office Rent,10000
+17,2023-02,Other,Office Supplies,550
+18,2023-02,Other,Travel Expenses,3100
+19,2023-03,Server Costs,AWS Hosting,8400
+20,2023-03,Server Costs,Google Cloud Storage,4400
+21,2023-03,Software Licenses,Atlassian Jira,1400
+22,2023-03,Software Licenses,Slack,900
+23,2023-03,Software Licenses,Salesforce,1700
+24,2023-03,Software Licenses,Zoom,540
+25,2023-03,Office Rental,Office Rent,10000
+26,2023-03,Other,Office Supplies,600
+27,2023-03,Other,Travel Expenses,3200
